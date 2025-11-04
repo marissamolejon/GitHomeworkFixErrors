@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-A programming language used to make websites interactive, dynamic, and functional.
+is a programming language used to make websites interactive, dynamic, and function
 
 ## 3. What three problems does Git & GitHub solve?
 
@@ -16,7 +16,7 @@ Cloud backup & remote access
 
 ## 4. What happens when you `fork` a repository?
 
-When you fork a repository on GitHub, you’re basically making your own copy of someone else’s project — under your GitHub account.
+When you fork a repository on GitHub, you’re basically making your own copy of someone else’s project — under your own account.
 
 ## 5. What happens when you clone a repository?
 
